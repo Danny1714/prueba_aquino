@@ -7,6 +7,7 @@
 	<body>
 		<?php
 			echo "Welcome to my first web page with PHP";
+			echo "Aquino Hernandez Daniel";
 
 		?>
 	</body>
